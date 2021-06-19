@@ -1,4 +1,3 @@
-# Performing an authorship attribution task on Donald Trump’s tweets.
 
 My model contains 5 features:
 

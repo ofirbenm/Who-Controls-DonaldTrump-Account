@@ -1,6 +1,4 @@
-A model for identifying the writer's identity in Trump's tweets.
-
-My model contains 5 features:
+# My model contains 5 features:
 
 1. If a re-tweet is written in the form of a copy-paste (Trump had a tendency to do such retweets).
 2. If the tweet contained a link within it (it's employees had a tendency to contain links in their tweets).

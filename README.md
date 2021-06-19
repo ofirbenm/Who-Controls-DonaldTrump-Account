@@ -1,3 +1,4 @@
+A model for identifying the writer's identity in Trump's tweets.
 
 My model contains 5 features:
 
